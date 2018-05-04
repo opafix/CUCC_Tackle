@@ -10,3 +10,5 @@ For compatability, all files must be:
 - PDF
 
 All files outside of this format will be removed (within reason).
+
+-- T. Crossley (Tackle Master)
