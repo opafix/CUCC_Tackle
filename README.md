@@ -1,5 +1,5 @@
 # CUCC_Tackle
-Repo for storing files for the Cambridge University Caving Club
+Repo for storing files for the Cambridge University Caving Club Tackle Store.
 
 Please use CSVs folder for current working lists and the Docs folder for documents (for instance 
 a tackle store inventory as of a particular date).
