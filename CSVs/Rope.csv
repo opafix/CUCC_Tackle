@@ -1,2 +1,2 @@
-UID (sequential),Length (m),Condition (Good / Bad),Date of Purchase (YYYY)
-EXAMPLE,80,Good,2014
+UID (sequential, ##),Length (m),Width (mm),Condition (Good / Bad),Date of Purchase (YYYY)
+01 [EXAMPLE],80,9,Good,2014
