@@ -26,3 +26,4 @@ accidental Unserground Use
 - Need to gear tape SRT kits
 - Need to retag all rope with heat shrink and Polish bands length-system
 - Need to contact UL to see if we can offload old log books for safekeeping
+- Need to count Lights and Batteries
