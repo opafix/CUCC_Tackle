@@ -11,6 +11,15 @@ accidental Unserground Use
 - Lead Acid Kit piled ready for responsible disposal
 - All books and paper records moved to attic to avoid damp
 - Some kit not yet counted as it's in Wookey's van:
+        List of gear I have:
+        1 small warmbac tacklesack
+        7 slings
+        1 rope protector
+        1 bolting hammer
+        1 setter
+        6 maillions
+        10 ring hangers
+- Wookey also has the drill, 3 chargers and all the batts
 - Need to go back and recheck slings as only 5 listed and there are definitely more than 5
 - Need to count belts for OCD reasons
 - Need to gear tape SRT kits
