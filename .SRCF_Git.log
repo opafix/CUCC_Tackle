@@ -42,3 +42,22 @@ After doing this, you may fix the identity used for this commit with:
 *****
 SRCF Auto Commit Wed  9 May 18:07:45 BST 2018
 Already up-to-date.
+[master cbafa5f] SRCF Auto Commit Wed  9 May 18:07:47 BST 2018
+ Committer: Thomas Crossley <tcac2@pip.srcf.societies.cam.ac.uk>
+Your name and e-mail address were configured automatically, based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 18 insertions(+)
+*****
+
+*****
+SRCF Auto Commit Wed  9 May 18:09:51 BST 2018
+Already up-to-date.
